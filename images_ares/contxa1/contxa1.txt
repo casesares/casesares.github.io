@@ -1,0 +1,32 @@
+<p style="margin-bottom: 0cm; font-weight: normal" align="justify"><font size="3" style="color: #000000"> </font></p>  <p style="margin-bottom: 0cm; font-weight: normal" align="justify">&nbsp;</p><table border="0">  
+<tbody> 
+<tr> 
+<td> <a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI1.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI1.jpg" alt="Entrada" title="Entrada" width="90" height="120" /></a> <br /> 
+</td> 
+<td> 
+<a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI2.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI2.jpg" alt="Comedor" title="Comedor" width="120" height="90" /></a> <br /> 
+</td>
+<td> 
+<a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI3.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI3.jpg" alt="Comedor" title="Comedor" width="120" height="90" /></a> <br /> 
+</td>
+<td> 
+<a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI4.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI4.jpg" alt="Comedor" title="Comedor" width="120" height="90" /></a> <br /> 
+</td> 
+</tr> 
+
+<tr> 
+<td> <a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI5.jpg" onclick="window.open(this.href,'window','width=768,height=1024,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI5.jpg" alt="Ba&ntilde;o" title="Ba&ntilde;o" width="90" height="120" /></a> <br /> 
+</td> 
+<td> 
+<a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI6.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI6.jpg" alt="Entrada" title="Entrada" width="90" height="120" /></a> <br /> 
+</td>
+<td> 
+<a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI7.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI7.jpg" alt="Habitación Doble" title="Habitación Doble" width="120" height="90" /></a> <br /> 
+</td>
+<td> 
+<a href="http://www.jimenez-ruiz.es/images_ares/contxa1/CONTXAI8.jpg" onclick="window.open(this.href,'window','width=1024,height=768,resizable,scrollbars,toolbar,menubar') ;return false;"><img src="http://www.jimenez-ruiz.es/images_ares/castell/pcontxa1/PCONTXAI8.jpg" alt="Habitación Matrimonio" title="Habitación Matrimonio" width="120" height="90" /></a> <br /> 
+</td> 
+</tr> 
+
+
+</tbody></table>
